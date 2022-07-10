@@ -2,6 +2,8 @@
 
 body {
   margin: 0;
+  background: rgb(34, 193, 195);
+    background: linear-gradient(90deg, rgba(34, 193, 195, 0.7539390756302521) 19%, rgba(255, 130, 130, 0.8015581232492998) 77%);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -12,4 +14,19 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
 }
