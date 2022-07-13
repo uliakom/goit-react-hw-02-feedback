@@ -42,9 +42,5 @@ export const Button = styled.button`
     transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
-    box-shadow: 10px 10px 22px 8px rgba(92, 80, 80, 0.75);
-    -webkit-box-shadow: 10px 10px 22px 8px rgba(92, 80, 80, 0.75);
-    -moz-box-shadow: 10px 10px 22px 8px rgba(92, 80, 80, 0.75);
-    color: rgb(13, 13, 13);
   }
 `;
